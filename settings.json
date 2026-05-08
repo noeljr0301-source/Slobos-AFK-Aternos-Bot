@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GrainSmp67.aternos.me:16253",
+    "ip": "GrainSmp67.aternos.me",
     "port": 16253,
     "version": "",
     "try-creative": false
