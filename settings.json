@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "GrainSmp67.aternos.me:16253",
+    "port": 16253,
     "version": "",
     "try-creative": false
   },
