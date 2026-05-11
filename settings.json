@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GrainSmp67.aternos.me:16253",
+    "ip": "GrainSmp67.aternos.me",
     "port": 16253,
     "version": "",
     "try-creative": false
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "welcome to grain smp!",
+        "I'm the afk bot that pro hired!",
         "I like to play Minecraft!"
       ]
     },
