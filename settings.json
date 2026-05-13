@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GainSmp67.aternos.me",
+    "ip": "GainSmp67.aternos.me:20402",
     "port":20402,
     "version": "",
     "try-creative": false
