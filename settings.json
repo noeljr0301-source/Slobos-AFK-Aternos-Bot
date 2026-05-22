@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GainSmp67.aternos.me:20402",
-    "port":20402,
+    "ip": "LimitedLivesSMP.aternos.me:40256",
+    "port":40256,
     "version": "",
     "try-creative": false
   },
